@@ -1,4 +1,4 @@
-### Welcome to my Github Page 👋
+### Welcome to my Github page 👋
 
 ### Hi there, I'm Dmytro Smakovskyi - Junior Front-end Developer
 
