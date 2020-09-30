@@ -1,4 +1,5 @@
-### Hi there 👋, my name is Dmytro Smakovskyi 
+### Hi there 👋, 
+my name is Dmytro Smakovskyi 
   
 - 🔭 At the current moment - I'm in search of a position where I can enhance my skillset in web technologies
 - 🌱 I’m currently learning - ReactNative, TypeScript, Node.js
