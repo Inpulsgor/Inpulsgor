@@ -1,15 +1,14 @@
 ### Welcome to my Github page 👋
 
 ### Hi there, my name is Dmytro Smakovskyi 
-
+---
 - 🔭 At the current moment - I'm in search of a position where I can enhance my skillset in web technologies
 - 🌱 I’m currently learning - ReactNative, TypeScript, Node.js
 - 🤔 Looking for help with finding more time in a single day to pump my skills :)
 - 📫 How to reach me: [dmsmakovksyi@gmail.com](dmsmakovksyi@gmail.com)
+---
 
 ### My stack and tools:
-
-
 
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
