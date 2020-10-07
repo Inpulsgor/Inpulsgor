@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Dmytro 
 - 🔭 At the current moment - I'm in search of a position where I can enhance my skillset in web technologies
 - 🌱 I’m currently learning - ReactNative, TypeScript, Node.js
-- 🤔 Looking for more time in a single day to pump my skills :)
+- 🤔 Looking for more time in a single day :)
 - 📫 How to reach me: [dmsmakovksyi@gmail.com](dmsmakovksyi@gmail.com)
 
 ## My stack and tools:
