@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Dmytro 
 - 🔭 At the current moment - I'm in search of a position where I can enhance my skillset in web technologies
-- 🌱 I’m currently learning - `TypeScript, Vue.js, Node.js`
+- 🌱 I’m currently learning - `TypeScript, Vue.js`
 - 📫 How to reach me: [dmsmakovksyi@gmail.com](dmsmakovksyi@gmail.com)
 
 ## My stack and tools:
