@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Dmytro 
-- 🌱 I’m currently learning - `React Native, Vue.js`
+- 🌱 I’m currently learning - `Node.js, Vue.js`
 - 📫 How to reach me: [dmsmakovksyi@gmail.com](dmsmakovksyi@gmail.com)
 
 ## My stack and tools:
