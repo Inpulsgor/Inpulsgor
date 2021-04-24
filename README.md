@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Dmytro 
-- 🌱 I’m currently learning - `Node.js, Vue.js`
-- 🔭 I’m currently working on **a lot of different stuff**
-- 🤔 I’m looking for help with **finding more time in a single day**
-- ⚡ Fun fact: **I love what I do - code and help people learn coding**
+- 🌱 I’m currently learning: `Node.js, Vue.js`
+- 🔭 I’m currently working on: ~ a lot of different stuff ;)
+- 🤔 I’m looking for help with: getting coding life better :)
+- ⚡ Fun fact: ~ I learn coding every single day ~
 - 📫 How to reach me: [dmsmakovksyi@gmail.com](dmsmakovksyi@gmail.com)
 
 ## My stack and tools:
