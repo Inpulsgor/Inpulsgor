@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Dmytro 
-- 🌱 I’m currently learning: `Node & Vue.js`
+- 🌱 I’m currently learning: `Node & Next.js`
 - 🔭 I’m currently working on: ~ a lot of different stuff ;)
 - 🤔 I’m looking for help with: getting coding life better :)
 - ⚡ Fun fact: ~ I learn coding every single day ~
