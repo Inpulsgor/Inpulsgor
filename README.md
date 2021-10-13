@@ -1,11 +1,12 @@
-### Hi there 👋, my name is Dmytro 
-- 🌱 I’m currently learning: `Next.js`
-- 🔭 I’m currently working on: ~ a lot of different stuff ;)
-- 🤔 I’m looking for help with: getting coding life better :)
-- ⚡ Fun fact: ~ I learn coding every single day ~
+### About Me:
+
+- 🌱 I’m Dmytro Smakovskyi
+- 🔭 I’m interested in learning new languages and coding
+- 🤔 I’m currently learning `Node.js`
+- ⚡ Fun fact: ~ I always want to learn new things ~
 - 📫 How to reach me: [dmsmakovksyi@gmail.com](dmsmakovksyi@gmail.com)
 
-## My stack and tools:
+### Technologies and Tools I use:
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -19,6 +20,7 @@
 <img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32"/>
 
 <details>
   <summary>
