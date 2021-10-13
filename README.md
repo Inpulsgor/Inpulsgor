@@ -24,7 +24,7 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="32" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="32" />
 <img align="left" src="https://expressjs.com/images/express-facebook-share.png" alt="express" width="32" />
-<img align="left" src="https://devahoy.com/static/79ebe6c318b3ff52a461ccac92d98988/3c17d/nextjs.png" alt="gatsby" width="32" />
+<img src="https://devahoy.com/static/79ebe6c318b3ff52a461ccac92d98988/3c17d/nextjs.png" alt="gatsby" width="32" />
 
 <details>
   <summary>
