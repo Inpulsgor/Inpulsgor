@@ -26,9 +26,9 @@
 
 ### Get In Touch! 🤭
  
-[![Linkedin Badge](https://img.shields.io/badge/-DmytroSmakovskyi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmsmakovskyi/)](https://www.linkedin.com/in/dmsmakovskyi/)
+[![Linkedin Badge](https://img.shields.io/badge/-DmSmakovskyi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmsmakovskyi/)](https://www.linkedin.com/in/dmsmakovskyi/)
 [![Github Badge](https://img.shields.io/badge/-Inpulsgor-grey?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Inpulsgor)](https://github.com/Inpulsgor)
-[![Gmail Badge](https://img.shields.io/badge/-DmytroSmakovskyi-white?style=flat-square&logo=Gmail&logoColor=red&link=mailto:dmsmakovskyi@gmail.com)](mailto:dmsmakovskyi@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-dmsmakovskyi-white?style=flat-square&logo=Gmail&logoColor=red&link=mailto:dmsmakovskyi@gmail.com)](mailto:dmsmakovskyi@gmail.com)
 
 <details>
   <summary>
