@@ -24,6 +24,12 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="32" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="32" />
 
+### Get In Touch! 🤭
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-DmytroSmakovskyi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmsmakovskyi/)](https://www.linkedin.com/in/dmsmakovskyi/)
+[![Github Badge](https://img.shields.io/badge/-Inpulsgor-grey?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Inpulsgor)](https://github.com/Inpulsgor)
+[![Gmail Badge](https://img.shields.io/badge/-DmytroSmakovskyi-white?style=flat-square&logo=Gmail&logoColor=red&link=mailto:dmsmakovskyi@gmail.com)](mailto:dmsmakovskyi@gmail.com)
+
 <details>
   <summary>
     GitHub Stats
