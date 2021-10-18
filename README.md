@@ -1,7 +1,7 @@
 ### About Me:
 
 - 🌱 I’m Dmytro Smakovskyi
-- 🔭 I’m interested in learning new languages and coding
+- 🔭 I’m interested in learning `JavaScript`
 - 🤔 I’m currently learning `Node.js`
 - ⚡ Fun fact: ~ I always want to learn new things ~
 - 📫 How to reach me: [dmsmakovksyi@gmail.com](dmsmakovksyi@gmail.com)
