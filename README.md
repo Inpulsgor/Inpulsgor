@@ -20,10 +20,11 @@
 <img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" />
-<img align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="32" />
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="32" />
+
 
 ### Get In Touch! 🤭
+
 [![Linkedin Badge](https://img.shields.io/badge/-Smakovskyi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmsmakovskyi/)](https://www.linkedin.com/in/dmsmakovskyi/)
 [![Github Badge](https://img.shields.io/badge/-Inpulsgor-grey?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Inpulsgor)](https://github.com/Inpulsgor)
 [![Gmail Badge](https://img.shields.io/badge/-dmsmakovskyi-white?style=flat-square&logo=Gmail&logoColor=red&link=mailto:dmsmakovskyi@gmail.com)](mailto:dmsmakovskyi@gmail.com)
