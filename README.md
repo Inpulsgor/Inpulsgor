@@ -1,5 +1,7 @@
 ### About Me:
 
+![Metrics](https://metrics.lecoq.io/Inpulsgor?template=classic&isocalendar=1&people=1&notable=1&lines=1&introduction=1&isocalendar.duration=half-year&people.limit=24&people.identicons=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&lines.skipped=react-playground%2C%20library%2C%20hogwarts&introduction.title=true&config.timezone=Europe%2FKiev)
+
 - 🌱 I’m Dmytro Smakovskyi
 - 🔭 I’m interested in learning `JavaScript`
 - 🤔 I’m currently learning `Node.js`
