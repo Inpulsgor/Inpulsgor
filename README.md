@@ -25,7 +25,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Smakovskyi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmsmakovskyi/)](https://www.linkedin.com/in/dmsmakovskyi/)
 [![Github Badge](https://img.shields.io/badge/-Inpulsgor-grey?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Inpulsgor)](https://github.com/Inpulsgor)
 [![Gmail Badge](https://img.shields.io/badge/-dmsmakovskyi-white?style=flat-square&logo=Gmail&logoColor=red&link=mailto:dmsmakovskyi@gmail.com)](mailto:dmsmakovskyi@gmail.com)
-
+<!-- 
 <details>
   <summary>
     GitHub Stats
@@ -42,5 +42,5 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inpulsgor&layout=compact" alt="Inpuls GitHub Top Languages"/>
   </a>
 </details>
-
+ -->
 
