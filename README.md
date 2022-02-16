@@ -2,12 +2,6 @@
 
 ![Metrics](https://metrics.lecoq.io/Inpulsgor?template=classic&isocalendar=1&languages=1&people=1&lines=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.identicons=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=Europe%2FKiev)
 
-- 🌱 I’m Dmytro Smakovskyi
-- 🔭 I’m interested in learning `JavaScript`
-- 🤔 I’m currently learning `Node.js`
-- ⚡ Fun fact: ~ I always want to learn new things ~
-- 📫 How to reach me: [dmsmakovksyi@gmail.com](dmsmakovksyi@gmail.com)
-
 ### Technologies and Tools I use:
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
